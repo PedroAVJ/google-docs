@@ -1,0 +1,6 @@
+interface:
+  display_name: "Google Docs"
+  short_description: "Work with native Google Docs through gws"
+  default_prompt: "Use $google-docs to create or revise this Google Doc and verify the saved result."
+policy:
+  allow_implicit_invocation: true

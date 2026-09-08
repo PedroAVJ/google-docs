@@ -1,0 +1,13 @@
+{
+  "name": "google-docs",
+  "version": "0.2.0",
+  "description": "Create, inspect, edit, import, and share Google Docs through the local Google Workspace CLI.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "skills": "./skills/",
+  "homepage": "https://github.com/PedroAVJ/google-docs",
+  "repository": "https://github.com/PedroAVJ/google-docs",
+  "license": "MIT"
+}

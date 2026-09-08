@@ -1,0 +1,32 @@
+{
+  "name": "google-docs",
+  "version": "0.2.0",
+  "description": "Create, inspect, edit, import, and share Google Docs through the local Google Workspace CLI.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Google Docs",
+    "shortDescription": "Work with Google Docs through gws.",
+    "longDescription": "Create native Google Docs from verified local documents, inspect and edit existing docs, and manage deliberate sharing through the installed Google Workspace CLI.",
+    "developerName": "PedroAVJ",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Create a collaborative Google Doc from this draft.",
+      "Review and update this Google Doc.",
+      "Share this Google Doc with named collaborators."
+    ],
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg",
+    "screenshots": []
+  },
+  "homepage": "https://github.com/PedroAVJ/google-docs",
+  "repository": "https://github.com/PedroAVJ/google-docs",
+  "license": "MIT"
+}
